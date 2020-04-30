@@ -1,4 +1,4 @@
-# Recognition-of-handwritten-figures
+# Recognition-of-handwritten-number
 
 Recognition of handwritten numbers
 
