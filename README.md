@@ -1,6 +1,6 @@
 # Recognition-of-handwritten-number
 
-Recognition of handwritten numbers
+Machine Learning : Recognition of handwritten numbers
 
 chiffres.py
 displays the matrix of each digit, and the numbers in a figure.
